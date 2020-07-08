@@ -1,4 +1,4 @@
-# mall
+# 基于VUE的移动端页面商城
 
 ## Project setup
 ```
